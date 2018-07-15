@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/background.png")
+}
+.h {
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.ps {
+    color: green;
+    background-color: lightgoldenrodyellow;
+}
+.p {
+    padding-bottom: 10px;
+}
+.img {
+    background-color: white;
+}
+.scoreboard {
+    color: blue;
+    background-color: cyan;
+}
+.score {
+    color: white;
+    background-color: blue;
+}
